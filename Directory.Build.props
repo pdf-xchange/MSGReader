@@ -1,0 +1,7 @@
+<Project>
+<PropertyGroup>
+  <BaseOutputPath>$(GeneratedDir)bin</BaseOutputPath>
+  <BaseIntermediateOutputPath>$(GeneratedDir)obj\</BaseIntermediateOutputPath>
+  <TargetFrameworks>$(PXCTargetFramework)</TargetFrameworks>
+</PropertyGroup>
+</Project>
